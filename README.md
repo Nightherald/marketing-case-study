@@ -1,7 +1,6 @@
 # marketing-case-study
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
----
 ## Currently under construction ⏳👷
 Though the notebook is valid and working 🎉, in the near future I will add more explanations to improve its readability 👓 
 
