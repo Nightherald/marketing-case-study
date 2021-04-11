@@ -9,5 +9,3 @@ Until then, if you have any questions, I'll be more than happy to answer them ðŸ
 ### Case Study Description
 ### Setup - Installation Dependencies
 ### TODOS
-
-![Currently under construction](https://github.com/Nightherald/marketing-case-study/blob/main/under_construction.png)
